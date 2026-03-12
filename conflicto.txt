@@ -1,3 +1,4 @@
+asd
 Proyecto: Git Conflicts
 Responsable: EQUIPO-A
 Version: 1.0
