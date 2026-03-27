@@ -1,0 +1,4 @@
+ Mendoza Salgado Raul Roman
+ 10-03-2026
+ Que el alumno practique el flujo completo de trabajo en GitHub partiendo desde cero: crear un repositorio nuevo, clonarlo, trabajar en una rama, realizar cambios y generar un Pull Request (PR). 
+ un pull request en GitHub permite proponer, revisar y fusionar cambios de código desde una rama secundaria a la rama principal.
